@@ -1,6 +1,9 @@
 # Smart Contracts 📝
 
-smart contracts belonging to TheSharkMob and other smart contracts used in the project\
+smart contracts belonging to TheSharkMob and other smart contracts used in the project
+
+ETH Mainnet: https://etherscan.io/address/0x0823C8D1789bcb472C16a60BB9aB317C2647D2B5#code
+
 
 ## Discussion
 
